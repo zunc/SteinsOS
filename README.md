@@ -1,5 +1,5 @@
 # Introduction
-SteinsOS is a non-preemptive single-threaded kernel based on armv8.
+SteinsOS is an operating system featuring non-preemptive single-threaded kernel targeting on armv8.
 
 It is buggy and still in progress. My goal is to make it more stable. Adding more features is not my first priority now.
 
