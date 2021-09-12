@@ -4,7 +4,7 @@ SteinsOS is an operating system featuring non-preemptive kernel targeting on sin
 It is buggy and still in progress. My current goal is to make it more stable. 
 
 # Document
-Below are SteinsOS docuements, one in Taiwanese, and the other in English.
+Below are SteinsOS documents, one in Taiwanese, and the other in English.
 
 [Taiwanese](https://hackmd.io/@wywh0917/rJEE2msfY)
 
